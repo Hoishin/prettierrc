@@ -1,6 +1,6 @@
 {
 	"name": "@hoishin/prettierrc",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Hoishin's Prettier configuration",
 	"repository": "https://github.com/Hoishin/prettierrc.git",
 	"license": "MIT",
