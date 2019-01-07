@@ -1,0 +1,20 @@
+{
+	"name": "@hoishin/prettierrc",
+	"version": "0.0.0",
+	"description": "Hoishin's Prettier configuration",
+	"repository": "https://github.com/Hoishin/prettierrc.git",
+	"license": "MIT",
+	"author": "Hoishin <hoishinxii@gmail.com>",
+	"files": [
+		"dist"
+	],
+	"main": "dist/prettierrc.js",
+	"scripts": {
+		"prebuild": "rm -rf dist && mkdir dist",
+		"build": "cp .prettierrc.js dist/prettierrc.js",
+		"prepublishOnly": "yarn build"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
+}
