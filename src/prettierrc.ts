@@ -15,4 +15,4 @@ const options: Options = {
 	jsxSingleQuote: true
 };
 
-export default options
+export = options
