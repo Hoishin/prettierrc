@@ -10,8 +10,8 @@
 	],
 	"main": "dist/prettierrc.js",
 	"scripts": {
-		"prebuild": "rm -rf dist && mkdir dist",
-		"build": "cp .prettierrc.js dist/prettierrc.js",
+		"prebuild": "rm -rf dist",
+		"build": "tsc",
 		"prepublishOnly": "yarn build"
 	},
 	"publishConfig": {
@@ -19,5 +19,11 @@
 	},
 	"peerDependencies": {
 		"prettier": "*"
+	},
+	"devDependencies": {
+		"@hoishin/tsconfig": "^1.0.0",
+		"@types/prettier": "^1.15.2",
+		"prettier": "^1.15.3",
+		"typescript": "^3.2.2"
 	}
 }
