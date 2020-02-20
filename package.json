@@ -24,6 +24,6 @@
 		"@hoishin/tsconfig": "2.0.0",
 		"@types/prettier": "1.19.0",
 		"prettier": "1.19.1",
-		"typescript": "3.7.5"
+		"typescript": "3.8.2"
 	}
 }
