@@ -22,7 +22,7 @@
 	},
 	"devDependencies": {
 		"@hoishin/tsconfig": "2.0.0",
-		"@types/prettier": "1.19.0",
+		"@types/prettier": "1.19.1",
 		"prettier": "1.19.1",
 		"typescript": "3.8.3"
 	}
