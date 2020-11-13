@@ -6,13 +6,13 @@ const options: Options = {
 	endOfLine: "lf",
 	useTabs: true,
 	trailingComma: "all",
-	tabWidth: 4,
-	singleQuote: true,
+	tabWidth: 2,
+	singleQuote: false,
 	semi: true,
 	printWidth: 80,
 	htmlWhitespaceSensitivity: "css",
 	jsxBracketSameLine: false,
-	jsxSingleQuote: true
+	jsxSingleQuote: true,
 };
 
 export = options
