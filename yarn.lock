@@ -1399,7 +1399,7 @@ split@^1.0.0:
   dependencies:
     through "2"
 
-standard-version@^9.0.0:
+standard-version@9.0.0:
   version "9.0.0"
   resolved "https://registry.yarnpkg.com/standard-version/-/standard-version-9.0.0.tgz#814055add91eec8679a773768927f927183fc818"
   integrity sha512-eRR04IscMP3xW9MJTykwz13HFNYs8jS33AGuDiBKgfo5YrO0qX0Nxb4rjupVwT5HDYL/aR+MBEVLjlmVFmFEDQ==
@@ -1538,7 +1538,7 @@ trim-off-newlines@^1.0.0:
   resolved "https://registry.yarnpkg.com/trim-off-newlines/-/trim-off-newlines-1.0.1.tgz#9f9ba9d9efa8764c387698bcbfeb2c848f11adb3"
   integrity sha1-n5up2e+odkw4dpi8v+sshI8RrbM=
 
-tslib@^2.0.3:
+tslib@2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
   integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
